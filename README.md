@@ -4,7 +4,7 @@ NFC_echo : A Python tool for capturing and replaying NFC data from devices like 
 NFC_echo: A Python Tool for NFC Sniffing and Replaying
 Introduction
 
-NFC_echo is a Python tool designed to capture and replay data from NFC (Near Field Communication) devices. This tool is particularly useful for security researchers and enthusiasts who want to analyze the data exchanged by NFC-enabled bank cards and other similar devices. NFCGate leverages the nfcpy library to interact with NFC hardware, making it simple to sniff and replay NFC communications.
+NFC_echo is a Python tool designed to capture and replay data from NFC (Near Field Communication) devices. This tool is particularly useful for security researchers and enthusiasts who want to analyze the data exchanged by NFC-enabled bank cards and other similar devices. NFC_echo leverages the nfcpy library to interact with NFC hardware, making it simple to sniff and replay NFC communications.
 
 Features
 
